@@ -1,0 +1,458 @@
+{
+  "london": {
+    "request": {
+      "type": "City",
+      "query": "London, United Kingdom",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "London",
+      "country": "United Kingdom",
+      "region": "City of London, Greater London",
+      "lat": "51.517",
+      "lon": "-0.106",
+      "timezone_id": "Europe/London",
+      "localtime": "2022-07-29 13:18",
+      "localtime_epoch": 1659100680,
+      "utc_offset": "1.0"
+    },
+    "current": {
+      "observation_time": "12:18 PM",
+      "temperature": 25,
+      "weather_code": 113,
+      "weather_descriptions": [
+        "Sunny"
+      ],
+      "wind_speed": 4,
+      "wind_degree": 16,
+      "wind_dir": "NNE",
+      "pressure": 1018,
+      "precip": 0,
+      "humidity": 36,
+      "cloudcover": 0,
+      "feelslike": 25,
+      "uv_index": 7,
+      "visibility": 10,
+      "is_day": "yes"
+    }
+  },
+  "los angeles": {
+    "request": {
+      "type": "City",
+      "query": "Los Angeles, United States of America",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "Los Angeles",
+      "country": "United States of America",
+      "region": "California",
+      "lat": "34.052",
+      "lon": "-118.243",
+      "timezone_id": "America/Los_Angeles",
+      "localtime": "2022-07-29 05:20",
+      "localtime_epoch": 1659072000,
+      "utc_offset": "-7.0"
+    },
+    "current": {
+      "observation_time": "12:20 PM",
+      "temperature": 18,
+      "weather_code": 113,
+      "weather_descriptions": [
+        "Clear"
+      ],
+      "wind_speed": 4,
+      "wind_degree": 10,
+      "wind_dir": "N",
+      "pressure": 1012,
+      "precip": 0,
+      "humidity": 87,
+      "cloudcover": 0,
+      "feelslike": 18,
+      "uv_index": 1,
+      "visibility": 16,
+      "is_day": "no"
+    }
+  },
+  "bucharest": {
+    "request": {
+      "type": "City",
+      "query": "Bucharest, Romania",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "Bucharest",
+      "country": "Romania",
+      "region": "Bucuresti",
+      "lat": "44.433",
+      "lon": "26.100",
+      "timezone_id": "Europe/Bucharest",
+      "localtime": "2022-07-29 15:21",
+      "localtime_epoch": 1659108060,
+      "utc_offset": "3.0"
+    },
+    "current": {
+      "observation_time": "12:21 PM",
+      "temperature": 33,
+      "weather_code": 113,
+      "weather_descriptions": [
+        "Sunny"
+      ],
+      "wind_speed": 15,
+      "wind_degree": 40,
+      "wind_dir": "NE",
+      "pressure": 1016,
+      "precip": 0,
+      "humidity": 36,
+      "cloudcover": 0,
+      "feelslike": 31,
+      "uv_index": 9,
+      "visibility": 10,
+      "is_day": "yes"
+    }
+  },
+  "new york": {
+    "request": {
+      "type": "City",
+      "query": "New York, United States of America",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "New York",
+      "country": "United States of America",
+      "region": "New York",
+      "lat": "40.714",
+      "lon": "-74.006",
+      "timezone_id": "America/New_York",
+      "localtime": "2022-07-29 08:21",
+      "localtime_epoch": 1659082860,
+      "utc_offset": "-4.0"
+    },
+    "current": {
+      "observation_time": "12:21 PM",
+      "temperature": 26,
+      "weather_code": 116,
+      "weather_descriptions": [
+        "Partly cloudy"
+      ],
+      "wind_speed": 4,
+      "wind_degree": 10,
+      "wind_dir": "N",
+      "pressure": 1012,
+      "precip": 0,
+      "humidity": 64,
+      "cloudcover": 75,
+      "feelslike": 27,
+      "uv_index": 7,
+      "visibility": 16,
+      "is_day": "yes"
+    }
+  },
+  "tokyo": {
+    "request": {
+      "type": "City",
+      "query": "Tokyo, Japan",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "Tokyo",
+      "country": "Japan",
+      "region": "Tokyo",
+      "lat": "35.690",
+      "lon": "139.692",
+      "timezone_id": "Asia/Tokyo",
+      "localtime": "2022-07-29 21:22",
+      "localtime_epoch": 1659129720,
+      "utc_offset": "9.0"
+    },
+    "current": {
+      "observation_time": "12:22 PM",
+      "temperature": 28,
+      "weather_code": 116,
+      "weather_descriptions": [
+        "Partly cloudy"
+      ],
+      "wind_speed": 28,
+      "wind_degree": 200,
+      "wind_dir": "SSW",
+      "pressure": 1015,
+      "precip": 0,
+      "humidity": 84,
+      "cloudcover": 25,
+      "feelslike": 31,
+      "uv_index": 1,
+      "visibility": 10,
+      "is_day": "no"
+    }
+  },
+  "beijing": {
+    "request": {
+      "type": "City",
+      "query": "Beijing, China",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "Beijing",
+      "country": "China",
+      "region": "Beijing",
+      "lat": "39.929",
+      "lon": "116.388",
+      "timezone_id": "Asia/Shanghai",
+      "localtime": "2022-07-29 20:23",
+      "localtime_epoch": 1659126180,
+      "utc_offset": "8.0"
+    },
+    "current": {
+      "observation_time": "12:23 PM",
+      "temperature": 27,
+      "weather_code": 113,
+      "weather_descriptions": [
+        "Clear"
+      ],
+      "wind_speed": 7,
+      "wind_degree": 140,
+      "wind_dir": "SE",
+      "pressure": 1008,
+      "precip": 0,
+      "humidity": 79,
+      "cloudcover": 0,
+      "feelslike": 28,
+      "uv_index": 8,
+      "visibility": 10,
+      "is_day": "no"
+    }
+  },
+  "amsterdam": {
+    "request": {
+      "type": "City",
+      "query": "Amsterdam, Netherlands",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "Amsterdam",
+      "country": "Netherlands",
+      "region": "North Holland",
+      "lat": "52.374",
+      "lon": "4.890",
+      "timezone_id": "Europe/Amsterdam",
+      "localtime": "2022-07-29 14:23",
+      "localtime_epoch": 1659104580,
+      "utc_offset": "2.0"
+    },
+    "current": {
+      "observation_time": "12:23 PM",
+      "temperature": 22,
+      "weather_code": 113,
+      "weather_descriptions": [
+        "Sunny"
+      ],
+      "wind_speed": 4,
+      "wind_degree": 64,
+      "wind_dir": "ENE",
+      "pressure": 1017,
+      "precip": 0.1,
+      "humidity": 57,
+      "cloudcover": 0,
+      "feelslike": 25,
+      "uv_index": 5,
+      "visibility": 10,
+      "is_day": "yes"
+    }
+  },
+  "berlin": {
+    "request": {
+      "type": "City",
+      "query": "Berlin, Germany",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "Berlin",
+      "country": "Germany",
+      "region": "Berlin",
+      "lat": "52.517",
+      "lon": "13.400",
+      "timezone_id": "Europe/Berlin",
+      "localtime": "2022-07-29 14:23",
+      "localtime_epoch": 1659104580,
+      "utc_offset": "2.0"
+    },
+    "current": {
+      "observation_time": "12:23 PM",
+      "temperature": 27,
+      "weather_code": 113,
+      "weather_descriptions": [
+        "Sunny"
+      ],
+      "wind_speed": 24,
+      "wind_degree": 90,
+      "wind_dir": "E",
+      "pressure": 1017,
+      "precip": 0,
+      "humidity": 37,
+      "cloudcover": 0,
+      "feelslike": 26,
+      "uv_index": 7,
+      "visibility": 10,
+      "is_day": "yes"
+    }
+  },
+  "moscow": {
+    "request": {
+      "type": "City",
+      "query": "Moscow, Russia",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "Moscow",
+      "country": "Russia",
+      "region": "Moscow City",
+      "lat": "55.752",
+      "lon": "37.616",
+      "timezone_id": "Europe/Moscow",
+      "localtime": "2022-07-29 15:24",
+      "localtime_epoch": 1659108240,
+      "utc_offset": "3.0"
+    },
+    "current": {
+      "observation_time": "12:24 PM",
+      "temperature": 23,
+      "weather_code": 113,
+      "weather_descriptions": [
+        "Sunny"
+      ],
+      "wind_speed": 22,
+      "wind_degree": 250,
+      "wind_dir": "WSW",
+      "pressure": 1017,
+      "precip": 0,
+      "humidity": 44,
+      "cloudcover": 0,
+      "feelslike": 24,
+      "uv_index": 6,
+      "visibility": 10,
+      "is_day": "yes"
+    }
+  },
+  "sydney": {
+    "request": {
+      "type": "City",
+      "query": "Sydney, Australia",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "Sydney",
+      "country": "Australia",
+      "region": "New South Wales",
+      "lat": "-33.883",
+      "lon": "151.217",
+      "timezone_id": "Australia/Sydney",
+      "localtime": "2022-07-29 22:20",
+      "localtime_epoch": 1659133200,
+      "utc_offset": "10.0"
+    },
+    "current": {
+      "observation_time": "12:20 PM",
+      "temperature": 13,
+      "weather_code": 116,
+      "weather_descriptions": [
+        "Partly cloudy"
+      ],
+      "wind_speed": 33,
+      "wind_degree": 190,
+      "wind_dir": "S",
+      "pressure": 1026,
+      "precip": 0,
+      "humidity": 62,
+      "cloudcover": 50,
+      "feelslike": 11,
+      "uv_index": 1,
+      "visibility": 10,
+      "is_day": "no"
+    }
+  },
+  "auckland": {
+    "request": {
+      "type": "City",
+      "query": "Auckland, New Zealand",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "Auckland",
+      "country": "New Zealand",
+      "region": "",
+      "lat": "-36.867",
+      "lon": "174.767",
+      "timezone_id": "Pacific/Auckland",
+      "localtime": "2022-07-30 00:24",
+      "localtime_epoch": 1659140640,
+      "utc_offset": "12.0"
+    },
+    "current": {
+      "observation_time": "12:24 PM",
+      "temperature": 9,
+      "weather_code": 113,
+      "weather_descriptions": [
+        "Clear"
+      ],
+      "wind_speed": 9,
+      "wind_degree": 30,
+      "wind_dir": "NNE",
+      "pressure": 1019,
+      "precip": 0,
+      "humidity": 100,
+      "cloudcover": 0,
+      "feelslike": 8,
+      "uv_index": 1,
+      "visibility": 10,
+      "is_day": "no"
+    }
+  },
+  "cairo": {
+    "request": {
+      "type": "City",
+      "query": "Cairo, Egypt",
+      "language": "en",
+      "unit": "m"
+    },
+    "location": {
+      "name": "Cairo",
+      "country": "Egypt",
+      "region": "Al Qahirah",
+      "lat": "30.050",
+      "lon": "31.250",
+      "timezone_id": "Africa/Cairo",
+      "localtime": "2022-07-29 14:25",
+      "localtime_epoch": 1659104700,
+      "utc_offset": "2.0"
+    },
+    "current": {
+      "observation_time": "12:25 PM",
+      "temperature": 36,
+      "weather_code": 113,
+      "weather_descriptions": [
+        "Sunny"
+      ],
+      "wind_speed": 15,
+      "wind_degree": 20,
+      "wind_dir": "NNE",
+      "pressure": 1007,
+      "precip": 0,
+      "humidity": 22,
+      "cloudcover": 0,
+      "feelslike": 34,
+      "uv_index": 9,
+      "visibility": 10,
+      "is_day": "yes"
+    }
+  }
+}
